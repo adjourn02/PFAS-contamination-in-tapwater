@@ -7,5 +7,5 @@ PFAS data can be found from the United States Geological Survey’s (USGS) websi
 ## Public Supply vs Private Wells
 
 Based on from figure below, there is no significant difference between water source site types in terms of PFAS contamination. 
-<br>
+<br><br>
 ![public_private_sites](site_pca.png)
