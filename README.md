@@ -10,7 +10,7 @@ Based from the figure below, there is no significant difference between water so
 <br><br>
 ![public_private_sites](site_pca.png)
 <br><br>
-A hypothesis test was also implemented to further support visual findings. 
+A hypothesis test was also implemented to further support these visual findings. 
 
 ## Predicting PFAS Contamination in Tap Water
 
