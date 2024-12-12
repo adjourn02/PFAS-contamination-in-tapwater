@@ -15,3 +15,6 @@ Based from figure below, there is no significant difference between water source
 Different classifiers were applied on PFAS data to predict whether its contamination in a water source site is above or below EPA standards. The figure below shows the behavior of these classifiers with respect to the first two principal components of the data.
 <br><br>
 ![classifiers](classifiers.png)
+
+## Documentation
+The paper and code will be provided upon request.
