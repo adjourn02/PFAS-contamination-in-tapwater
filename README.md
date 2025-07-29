@@ -1,6 +1,9 @@
 # Comparing Water Source Site Types and Predicting Contamination of Tap Water exposed to Per- and Polyfluoroalkyl Substances (PFAS) in the United States
 This project compares water source site types in terms of PFAS contamination and predict if tap water from a site exceeds the Maximum Contaminant Levels (MCLs) of PFAS in accordance to the U.S. Environmental Protection Agency (EPA) standards.
 
+## Paper
+This study's paper can be found on https://drive.google.com/file/d/1Cc20bwxEl_SCCw9Ksz8_zXgF0HuTBHrb/view?usp=sharing.
+
 ## Data Source
 PFAS data can be found from the United States Geological Survey’s (USGS) website providing different types and levels per state for years 2016 to 2021: https://www.sciencedirect.com/science/article/pii/S0160412023003069?via%3Dihub
 
